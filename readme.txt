@@ -16,7 +16,7 @@ But how are you sure of the quality of assignments? Too many categories? Missing
 
 This plugin allows you to detect these entries defining operations related to the number of terms.
 
-Also have full support to custom post types and custom taxonomies.
+Also have full support for custom post types and custom taxonomies.
 
 == Installation ==
 
