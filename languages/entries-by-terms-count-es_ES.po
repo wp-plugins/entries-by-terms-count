@@ -1,0 +1,104 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Entries By Terms Count\n"
+"POT-Creation-Date: 2015-04-14 19:10+0100\n"
+"PO-Revision-Date: 2015-04-14 19:10+0100\n"
+"Last-Translator: Pau Iglesias <pauiglesias@gmail.com>\n"
+"Language-Team: Pau Iglesias, Blogestudio <pauiglesias@blogestudio.com>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: s;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../entries-by-terms-count.php:126
+msgid "You do not have sufficient permissions to access this page."
+msgstr "No tienes suficientes permisos para acceder a esta página."
+
+#: ../entries-by-terms-count.php:189
+#, php-format
+msgid "Error: Post Type <b>%s</b> not found."
+msgstr "Error: Post Type <b>%s</b> no encontrado."
+
+#: ../entries-by-terms-count.php:193
+#, php-format
+msgid "Error: Taxonomy <b>%s</b> not found."
+msgstr "Error: Taxonomía <b>%s</b> no encontrada."
+
+#: ../entries-by-terms-count.php:203
+msgid "Search entries"
+msgstr "Buscar entradas"
+
+#: ../entries-by-terms-count.php:213
+msgid "Post Type:"
+msgstr "Post Type:"
+
+#: ../entries-by-terms-count.php:218
+msgid "Taxonomy:"
+msgstr "Taxonomía:"
+
+#: ../entries-by-terms-count.php:223
+msgid "Operation:"
+msgstr "Operación:"
+
+#: ../entries-by-terms-count.php:224
+msgid "Equal to"
+msgstr "Igual a"
+
+#: ../entries-by-terms-count.php:224
+msgid "Not equal to"
+msgstr "No igual a"
+
+#: ../entries-by-terms-count.php:224
+msgid "Greater than"
+msgstr "Mayor que"
+
+#: ../entries-by-terms-count.php:224
+msgid "Greater than or equal to"
+msgstr "Mayor o igual que"
+
+#: ../entries-by-terms-count.php:224
+msgid "Less than"
+msgstr "Menor que"
+
+#: ../entries-by-terms-count.php:224
+msgid "Less than or equal to"
+msgstr "Menor o igual que"
+
+#: ../entries-by-terms-count.php:228
+msgid "Count:"
+msgstr "Contador:"
+
+#: ../entries-by-terms-count.php:229
+msgid "terms"
+msgstr "términos"
+
+#: ../entries-by-terms-count.php:233
+msgid "Search"
+msgstr "Buscar"
+
+#: ../entries-by-terms-count.php:253
+msgid "No results found."
+msgstr "No se encontraron resultados."
+
+#: ../entries-by-terms-count.php:257
+#, php-format
+msgid "Found <b>%s</b> entries."
+msgstr "Se encontraron <b>%s</b> entradas."
+
+#: ../entries-by-terms-count.php:262 ../entries-by-terms-count.php:278
+msgid "Title"
+msgstr "Título"
+
+#: ../entries-by-terms-count.php:263 ../entries-by-terms-count.php:279
+msgid "Action"
+msgstr "Acción"
+
+#: ../entries-by-terms-count.php:264 ../entries-by-terms-count.php:280
+msgid "Status"
+msgstr "Estado"
