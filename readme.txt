@@ -14,7 +14,7 @@ The process to creating a post is not just writing, most of the time you need ca
 
 But how are you sure of the quality of assignments? Too many categories? Missing tags in some posts?
 
-This plugin allows you to detect this entries defining operations related to the number of terms.
+This plugin allows you to detect these entries defining operations related to the number of terms.
 
 Also have full support to custom post types and custom taxonomies.
 
