@@ -14,7 +14,7 @@ The process to creating a post is not just writing, most of the time you need ca
 
 But how are you sure of the quality of assignments? Too many categories? Missing tags in some posts?
 
-This plugin allows you to detect this entries defining operations related to the number of terms.
+This plugin allows you to detect these entries defining operations related to the number of terms.
 
 Also have full support to custom post types and custom taxonomies.
 
@@ -22,7 +22,7 @@ Also have full support to custom post types and custom taxonomies.
 
 1. Unzip and upload entries-by-terms-count folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Go to menú Tools > Entries By Terms Count to configure and search by number of terms
+1. Go to menu Tools > Entries By Terms Count to configure and search by number of terms
 
 == Frequently Asked Questions ==
 
