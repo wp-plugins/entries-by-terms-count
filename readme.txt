@@ -2,7 +2,7 @@
 Contributors: blogestudio, pauiglesias
 Tags: entries, terms, tax, taxonomy, taxonomies, custom taxonomy, custom taxonomies, tags, post tags, post type, post types, custom post types, optimization, seo, content, curation, content curation
 Requires at least: 3.3.2
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.0
 License: GPLv2 or later
 
